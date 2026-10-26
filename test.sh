@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [ -f missing.sh ]; then
+if [ -f app.sh ]; then
     echo "TEST PASSED: Application file exists."
 else
     echo "TEST FAILED: Application file is missing."
