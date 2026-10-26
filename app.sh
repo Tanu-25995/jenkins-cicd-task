@@ -2,4 +2,4 @@
 
 echo "Jenkins CI/CD application is running."
 echo "Build completed successfully."
-Updated application version 2
+echo "Updated application version 2"
